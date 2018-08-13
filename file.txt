@@ -1,10 +1,7 @@
 Pizza Methodology:
 
 1. Prepare Dough
-	1.1 Get flour from store
-	1.2 Remove flour into big vessel
-	1.3 Add Water
-
+	<refer dough-preparation.txt>
 2. Prepare topics
 3. Bake
 4. Pack
