@@ -1,3 +1,5 @@
 1.1 Get flour from store
-1.2 Empty flour into big vessel
+1.2 Get cheese from store
+1.3 Empty flour into big vessel
+1.4 Cut cheese into small pieces
 1.3 Add Water
